@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Top Trending Songs</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@300;400;600&display=swap" rel="stylesheet" />
+  <style>
+    :root {
+      --green:   #69e091;
+      --dark:    #0d1f17;
+      --card:    #122318;
+      --accent:  #1d4436;
+      --text:    #e8f5ee;
+      --muted:   #6fa882;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--dark);
+      color: var(--text);
+      font-family: 'DM Sans', sans-serif;
+      min-height: 100vh;
+    }
+
+    /* ---------- HEADER ---------- */
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 24px 40px;
+      border-bottom: 1px solid rgba(105,224,145,.15);
+      position: sticky;
+      top: 0;
+      background: rgba(13,31,23,.92);
+      backdrop-filter: blur(12px);
+      z-index: 100;
+    }
+
+    .logo {
+      width: 52px;
+      height: 52px;
+      border-radius: 12px;
+      object-fit: cover;
+    }
+
+    .site-title {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.8rem;
+      letter-spacing: .12em;
+      color: var(--green);
+    }
+
+    .nav-btn {
+      background: transparent;
+      border: 1.5px solid var(--green);
+      color: var(--green);
+      border-radius: 100px;
+      padding: 9px 22px;
+      font-family: 'DM Sans', sans-serif;
+      font-size: .9rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: background .2s, color .2s;
+      text-decoration: none;
+      display: inline-block;
+    }
+    .nav-btn:hover { background: var(--green); color: var(--dark); }
+
+    /* ---------- HERO ---------- */
+    .hero {
+      text-align: center;
+      padding: 60px 20px 40px;
+    }
+    .hero h1 {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: clamp(3rem, 8vw, 6rem);
+      letter-spacing: .06em;
+      line-height: 1;
+      background: linear-gradient(135deg, var(--green), #a8f5c0, var(--green));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+    .hero p {
+      color: var(--muted);
+      margin-top: 12px;
+      font-size: .95rem;
+      letter-spacing: .04em;
+    }
+    #last-updated {
+      display: inline-block;
+      margin-top: 14px;
+      font-size: .8rem;
+      color: var(--muted);
+      border: 1px solid rgba(105,224,145,.2);
+      border-radius: 100px;
+      padding: 4px 14px;
+    }
+
+    /* ---------- GRID ---------- */
+    .songs-grid {
+      display: flex;
+      flex-direction: column;
+      gap: 14px;
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 20px 24px 60px;
+    }
+
+    .song-card {
+      background: var(--card);
+      border-radius: 16px;
+      padding: 16px 20px;
+      display: flex;
+      align-items: center;
+      gap: 18px;
+      border: 1px solid rgba(105,224,145,.08);
+      transition: border-color .2s, transform .15s;
+      animation: slide-in .4s both;
+    }
+    .song-card:hover {
+      border-color: rgba(105,224,145,.35);
+      transform: translateX(4px);
+    }
+
+    @keyframes slide-in {
+      from { opacity:0; transform: translateY(16px); }
+      to   { opacity:1; transform: translateY(0); }
+    }
+
+    .rank {
+      font-family: 'Bebas Neue', sans-serif;
+      font-size: 1.5rem;
+      color: var(--green);
+      min-width: 36px;
+      text-align: right;
+      opacity: .7;
+    }
+    .rank.top3 { opacity: 1; font-size: 1.8rem; }
+
+    .song-img {
+      width: 72px;
+      height: 72px;
+      border-radius: 10px;
+      object-fit: cover;
+      background: var(--accent);
+      flex-shrink: 0;
+    }
+
+    .song-info { flex: 1; min-width: 0; }
+    .song-title {
+      font-weight: 600;
+      font-size: 1rem;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      color: var(--text);
+    }
+    .song-artist {
+      margin-top: 5px;
+      font-size: .85rem;
+      color: var(--muted);
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* ---------- LOADING / ERROR ---------- */
+    .status {
+      text-align: center;
+      padding: 80px 20px;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+
+    /* ---------- RESPONSIVE ---------- */
+    @media (max-width: 540px) {
+      header { padding: 16px 20px; }
+      .song-img { width: 52px; height: 52px; }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <img src="assets/Socbizz_Logo.png" class="logo" alt="SocBizIITR" onerror="this.style.display='none'" />
+    <span class="site-title">SocBizIITR</span>
+    <a class="nav-btn" href="Artist_Ranking.html">Top Artists →</a>
+  </header>
+
+  <section class="hero">
+    <h1>Trending Songs</h1>
+    <p>Top 100 · Amazon Music India · Live Rankings</p>
+    <span id="last-updated">Loading...</span>
+  </section>
+
+  <div id="songs-grid" class="songs-grid">
+    <div class="status">Fetching latest songs…</div>
+  </div>
+
+  <script>
+    fetch("data/data.json")
+      .then(r => r.json())
+      .then(data => {
+        const grid = document.getElementById("songs-grid");
+        document.getElementById("last-updated").textContent =
+          "Updated " + new Date().toLocaleDateString("en-IN", {day:"numeric", month:"short", year:"numeric"});
+
+        if (!data.length) {
+          grid.innerHTML = '<div class="status">No songs found.</div>';
+          return;
+        }
+
+        grid.innerHTML = data.map((song, i) => {
+          const rank = i + 1;
+          const title = (song["Track"] || "Unknown").trim();
+          const artist = song["Artists"] || "Unknown Artist";
+          const img = song["Image Url"] || "";
+          return `
+            <div class="song-card" style="animation-delay:${Math.min(i * 0.03, 1)}s">
+              <div class="rank ${rank <= 3 ? 'top3' : ''}">${rank}</div>
+              <img class="song-img" src="${img}" alt="${title}"
+                   onerror="this.src='https://placehold.co/72x72/1d4436/69e091?text=${encodeURIComponent(rank)}'" />
+              <div class="song-info">
+                <div class="song-title">${title}</div>
+                <div class="song-artist">${artist}</div>
+              </div>
+            </div>`;
+        }).join("");
+      })
+      .catch(err => {
+        document.getElementById("songs-grid").innerHTML =
+          '<div class="status">Could not load songs. Make sure data/data.json exists.</div>';
+        console.error(err);
+      });
+  </script>
+
+</body>
+</html>
