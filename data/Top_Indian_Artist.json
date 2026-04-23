@@ -5,54 +5,74 @@
     "C": "Image_Url"
   },
   {
+    "A": "AYN",
+    "B": "4705",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
+  },
+  {
+    "A": "Flipknot",
+    "B": "303",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=F"
+  },
+  {
     "A": "Joy",
-    "B": "348",
+    "B": "230",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
+  },
+  {
+    "A": "Amit Trivedi",
+    "B": "181",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
+  },
+  {
+    "A": "Tarang",
+    "B": "163",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=T"
+  },
+  {
+    "A": "Diljit Dosanjh",
+    "B": "124",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=D+D"
+  },
+  {
+    "A": "Anirudh Ravichander",
+    "B": "105",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+R"
+  },
+  {
+    "A": "Jai",
+    "B": "103",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
   },
   {
     "A": "Sanjana",
-    "B": "249",
+    "B": "79",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
     "A": "Santhanam",
-    "B": "249",
+    "B": "79",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
-    "A": "Flipknot",
-    "B": "215",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=F"
-  },
-  {
-    "A": "Poorna M",
-    "B": "159",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=P+M"
-  },
-  {
-    "A": "Sarah Black",
-    "B": "139",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S+B"
-  },
-  {
-    "A": "Amit Trivedi",
-    "B": "90",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
-  },
-  {
-    "A": "Anirudh Ravichander",
-    "B": "58",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+R"
+    "A": "Daryion",
+    "B": "48",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=D"
   },
   {
     "A": "Reema",
-    "B": "48",
+    "B": "38",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=R"
   },
   {
-    "A": "Paraforce",
-    "B": "33",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=P"
+    "A": "Achint",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
+  },
+  {
+    "A": "Ankit Tiwari",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
   },
   {
     "A": "Arijit Singh",
@@ -60,33 +80,53 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+S"
   },
   {
-    "A": "Diljit Dosanjh",
+    "A": "Deva",
     "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=D+D"
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=D"
   },
   {
-    "A": "Jai",
+    "A": "Harshavardhan Rameshwar",
     "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=H+R"
+  },
+  {
+    "A": "John Mayer",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=J+M"
+  },
+  {
+    "A": "Maran",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=M"
+  },
+  {
+    "A": "Medusa",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=M"
+  },
+  {
+    "A": "Mehmood",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=M"
+  },
+  {
+    "A": "Paraforce",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=P"
+  },
+  {
+    "A": "Sad Wolves",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S+W"
+  },
+  {
+    "A": "Shubha",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
     "A": "Shubham",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
-  },
-  {
-    "A": "Sidhu Moose Wala",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S+M"
-  },
-  {
-    "A": "Tarang",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=T"
-  },
-  {
-    "A": "Yo Yo Honey Singh",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=Y+Y"
   }
 ]
