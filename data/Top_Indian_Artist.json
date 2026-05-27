@@ -5,38 +5,38 @@
     "C": "Image_Url"
   },
   {
+    "A": "Santhanam",
+    "B": "433",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
+  },
+  {
     "A": "Joy",
-    "B": "429",
+    "B": "405",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
   },
   {
-    "A": "Children",
-    "B": "257",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=C"
+    "A": "Harshavardhan Rameshwar",
+    "B": "310",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=H+R"
+  },
+  {
+    "A": "AYN",
+    "B": "100",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
   },
   {
     "A": "Sarah Black",
-    "B": "165",
+    "B": "59",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S+B"
   },
   {
-    "A": "Sanjana",
-    "B": "86",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
-  },
-  {
-    "A": "Santhanam",
-    "B": "86",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
-  },
-  {
     "A": "Paraforce",
-    "B": "61",
+    "B": "39",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=P"
   },
   {
     "A": "Flipknot",
-    "B": "31",
+    "B": "38",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=F"
   },
   {
@@ -60,16 +60,6 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=D"
   },
   {
-    "A": "Harshavardhan Rameshwar",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=H+R"
-  },
-  {
-    "A": "Jai",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
-  },
-  {
     "A": "John Mayer",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=J+M"
@@ -85,18 +75,13 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=M"
   },
   {
-    "A": "Sad Wolves",
+    "A": "Shubha",
     "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S+W"
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
     "A": "Shubham",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
-  },
-  {
-    "A": "Tarang",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=T"
   }
 ]
