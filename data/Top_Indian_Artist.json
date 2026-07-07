@@ -6,62 +6,57 @@
   },
   {
     "A": "Anirudh Ravichander",
-    "B": "769",
+    "B": "671",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+R"
   },
   {
-    "A": "Sanjana",
-    "B": "604",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
-  },
-  {
-    "A": "Santhanam",
-    "B": "604",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
-  },
-  {
-    "A": "Tarang",
-    "B": "402",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=T"
-  },
-  {
-    "A": "John Mayer",
-    "B": "235",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=J+M"
-  },
-  {
-    "A": "Jai",
-    "B": "174",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
-  },
-  {
-    "A": "Amit Trivedi",
-    "B": "101",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
-  },
-  {
-    "A": "Harshavardhan Rameshwar",
-    "B": "57",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=H+R"
-  },
-  {
-    "A": "Arijit Singh",
-    "B": "54",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+S"
-  },
-  {
-    "A": "Flipknot",
-    "B": "37",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=F"
-  },
-  {
     "A": "Sarah Black",
-    "B": "24",
+    "B": "265",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S+B"
   },
   {
+    "A": "Tarang",
+    "B": "241",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=T"
+  },
+  {
+    "A": "Santhanam",
+    "B": "204",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
+  },
+  {
+    "A": "Paraforce",
+    "B": "96",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=P"
+  },
+  {
+    "A": "Flipknot",
+    "B": "90",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=F"
+  },
+  {
+    "A": "Harshavardhan Rameshwar",
+    "B": "54",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=H+R"
+  },
+  {
+    "A": "Sad Wolves",
+    "B": "43",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S+W"
+  },
+  {
+    "A": "Shubha",
+    "B": "37",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
+  },
+  {
+    "A": "Shubham",
+    "B": "37",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
+  },
+  {
     "A": "AYN",
-    "B": "0",
+    "B": "26",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
   },
   {
@@ -70,14 +65,19 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
   },
   {
+    "A": "Amit Trivedi",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
+  },
+  {
     "A": "Ankit Tiwari",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
   },
   {
-    "A": "Children",
+    "A": "Arijit Singh",
     "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=C"
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+S"
   },
   {
     "A": "Daryion",
@@ -95,9 +95,14 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=D+D"
   },
   {
-    "A": "Maran",
+    "A": "Jai",
     "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=M"
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
+  },
+  {
+    "A": "John Mayer",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=J+M"
   },
   {
     "A": "Medusa",
@@ -110,34 +115,9 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=M"
   },
   {
-    "A": "Paraforce",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=P"
-  },
-  {
-    "A": "Poorna M",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=P+M"
-  },
-  {
     "A": "Reema",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=R"
-  },
-  {
-    "A": "Sad Wolves",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S+W"
-  },
-  {
-    "A": "Shubha",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
-  },
-  {
-    "A": "Shubham",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
     "A": "Sidhu Moose Wala",
