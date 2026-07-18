@@ -6,73 +6,78 @@
   },
   {
     "A": "Anirudh Ravichander",
-    "B": "768",
+    "B": "1028",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+R"
   },
   {
-    "A": "Arijit Singh",
-    "B": "458",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+S"
-  },
-  {
-    "A": "Amit Trivedi",
-    "B": "129",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
-  },
-  {
-    "A": "Reema",
-    "B": "122",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=R"
-  },
-  {
-    "A": "Sarah Black",
-    "B": "119",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S+B"
-  },
-  {
-    "A": "Harshavardhan Rameshwar",
-    "B": "83",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=H+R"
+    "A": "Joy",
+    "B": "531",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
   },
   {
     "A": "Shubha",
-    "B": "78",
+    "B": "405",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
     "A": "Shubham",
-    "B": "78",
+    "B": "405",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
+    "A": "Achint",
+    "B": "234",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
+  },
+  {
+    "A": "Harshavardhan Rameshwar",
+    "B": "206",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=H+R"
+  },
+  {
+    "A": "Amit Trivedi",
+    "B": "136",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
+  },
+  {
     "A": "Flipknot",
-    "B": "50",
+    "B": "116",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=F"
   },
   {
+    "A": "Paraforce",
+    "B": "97",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=P"
+  },
+  {
+    "A": "Tarang",
+    "B": "78",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=T"
+  },
+  {
     "A": "John Mayer",
-    "B": "17",
+    "B": "36",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=J+M"
   },
   {
+    "A": "AYN",
+    "B": "34",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
+  },
+  {
     "A": "Sanjana",
-    "B": "15",
+    "B": "22",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
     "A": "Santhanam",
-    "B": "15",
+    "B": "22",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
-    "A": "AYN",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
-  },
-  {
-    "A": "Achint",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
+    "A": "Sarah Black",
+    "B": "20",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S+B"
   },
   {
     "A": "Ankit Tiwari",
@@ -80,9 +85,9 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
   },
   {
-    "A": "Children",
+    "A": "Arijit Singh",
     "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=C"
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+S"
   },
   {
     "A": "Deva",
@@ -100,6 +105,11 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
   },
   {
+    "A": "Maran",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=M"
+  },
+  {
     "A": "Medusa",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=M"
@@ -110,9 +120,9 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=M"
   },
   {
-    "A": "Paraforce",
+    "A": "Reema",
     "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=P"
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=R"
   },
   {
     "A": "Sad Wolves",
@@ -123,11 +133,6 @@
     "A": "Sidhu Moose Wala",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S+M"
-  },
-  {
-    "A": "Tarang",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=T"
   },
   {
     "A": "Yo Yo Honey Singh",
