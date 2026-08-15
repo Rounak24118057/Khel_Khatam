@@ -10,11 +10,6 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+R"
   },
   {
-    "A": "Joy",
-    "B": "802",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
-  },
-  {
     "A": "Reema",
     "B": "394",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=R"
@@ -28,6 +23,11 @@
     "A": "Amit Trivedi",
     "B": "243",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
+  },
+  {
+    "A": "Sanjana",
+    "B": "175",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
     "A": "Santhanam",
@@ -85,11 +85,6 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=C"
   },
   {
-    "A": "Daryion",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=D"
-  },
-  {
     "A": "Deva",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=D"
@@ -123,11 +118,6 @@
     "A": "Sad Wolves",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S+W"
-  },
-  {
-    "A": "Shubha",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
     "A": "Shubham",
