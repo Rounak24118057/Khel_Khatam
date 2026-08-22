@@ -5,11 +5,6 @@
     "C": "Image_Url"
   },
   {
-    "A": "JQueen",
-    "B": "3785",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=J"
-  },
-  {
     "A": "Anirudh Ravichander",
     "B": "2919",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+R"
@@ -70,11 +65,6 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S"
   },
   {
-    "A": "AYN",
-    "B": "80",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
-  },
-  {
     "A": "Reema",
     "B": "64",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=R"
@@ -113,6 +103,11 @@
     "A": "Arijit Singh",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+S"
+  },
+  {
+    "A": "Children",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=C"
   },
   {
     "A": "Deva",
