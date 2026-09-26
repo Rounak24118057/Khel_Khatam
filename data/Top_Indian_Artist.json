@@ -6,48 +6,33 @@
   },
   {
     "A": "Anirudh Ravichander",
-    "B": "2228",
+    "B": "1032",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+R"
   },
   {
     "A": "Yo Yo Honey Singh",
-    "B": "858",
+    "B": "574",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=Y+Y"
   },
   {
-    "A": "John Mayer",
-    "B": "413",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=J+M"
+    "A": "Arijit Singh",
+    "B": "119",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+S"
   },
   {
     "A": "Achint",
-    "B": "234",
+    "B": "105",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A"
   },
   {
-    "A": "Sidhu Moose Wala",
-    "B": "172",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=S+M"
-  },
-  {
-    "A": "Diljit Dosanjh",
-    "B": "99",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=D+D"
-  },
-  {
-    "A": "Harshavardhan Rameshwar",
-    "B": "89",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=H+R"
+    "A": "John Mayer",
+    "B": "72",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=J+M"
   },
   {
     "A": "Amit Trivedi",
-    "B": "83",
+    "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
-  },
-  {
-    "A": "Paraforce",
-    "B": "69",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=P"
   },
   {
     "A": "Ankit Tiwari",
@@ -55,13 +40,28 @@
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+T"
   },
   {
-    "A": "Arijit Singh",
-    "B": "0",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+S"
-  },
-  {
     "A": "Deva",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=D"
+  },
+  {
+    "A": "Diljit Dosanjh",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=D+D"
+  },
+  {
+    "A": "Harshavardhan Rameshwar",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=H+R"
+  },
+  {
+    "A": "Paraforce",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=P"
+  },
+  {
+    "A": "Sidhu Moose Wala",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=S+M"
   }
 ]
