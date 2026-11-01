@@ -1,18 +1,18 @@
 [
   {
-    "Track": "Thriller",
-    "Artists": "Michael Jackson",
-    "Image Url": "https://m.media-amazon.com/images/I/71iVddTPOrL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
     "Track": "Somebody's Watching Me (Single Version)",
     "Artists": "Rockwell",
     "Image Url": "https://m.media-amazon.com/images/I/717OMN5bPPL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Monster Mash",
-    "Artists": "Bobby \"Boris\" Pickett & The Crypt-Kickers",
-    "Image Url": "https://m.media-amazon.com/images/I/71Utm51x8lL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Time Warp",
+    "Artists": "Little Nell, Patricia Quinn, Richard O'Brien & The Rocky Horror Picture Show",
+    "Image Url": "https://m.media-amazon.com/images/I/714wQZIeKRL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "I Put a Spell On You (Alternate Take)",
+    "Artists": "Screaming Jay Hawkins",
+    "Image Url": "https://m.media-amazon.com/images/I/81BHPYyILjL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Choosin' Texas",
@@ -20,12 +20,7 @@
     "Image Url": "https://m.media-amazon.com/images/I/71FgtVr89QL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Monster Mash",
-    "Artists": "Bobby \"Boris\" Pickett & The Crypt-Kickers",
-    "Image Url": "https://m.media-amazon.com/images/I/81zCkh0IGNL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Thriller",
+    "Track": "Billie Jean",
     "Artists": "Michael Jackson",
     "Image Url": "https://m.media-amazon.com/images/I/71m-8XlvccL._SX472_SY472_BL0_QL100_.jpg"
   },
@@ -35,194 +30,9 @@
     "Image Url": "https://m.media-amazon.com/images/I/91yYIvWr+lL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Ghostbusters (from the \"Ghostbusters\" Original Motion Picture Soundtrack)",
-    "Artists": "Ray Parker Jr.",
-    "Image Url": "https://m.media-amazon.com/images/I/711GE7hhG0L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Billie Jean",
-    "Artists": "Michael Jackson",
-    "Image Url": "https://m.media-amazon.com/images/I/71m-8XlvccL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
     "Track": "Mr. Brightside",
     "Artists": "The Killers",
     "Image Url": "https://m.media-amazon.com/images/I/71vJtfwKuFL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Been By Now",
-    "Artists": "Morgan Wallen",
-    "Image Url": "https://m.media-amazon.com/images/I/71jBmX1pBdL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Patient Zero",
-    "Artists": "Taylor Swift",
-    "Image Url": "https://m.media-amazon.com/images/I/7102JYH881L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Be Her",
-    "Artists": "Ella Langley",
-    "Image Url": "https://m.media-amazon.com/images/I/71FgtVr89QL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Boston",
-    "Artists": "STELLA LEFTY",
-    "Image Url": "https://m.media-amazon.com/images/I/91Y1WeMh-vL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "I Can't Love You Anymore",
-    "Artists": "Ella Langley & Morgan Wallen",
-    "Image Url": "https://m.media-amazon.com/images/I/71qRyLjaFFL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Ghostbusters",
-    "Artists": "Ray Parker Jr.",
-    "Image Url": "https://m.media-amazon.com/images/I/71ksqkeQcCL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "The Fate of Ophelia",
-    "Artists": "Taylor Swift",
-    "Image Url": "https://m.media-amazon.com/images/I/81sD+kAZAFL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Ghostbusters (from the \"Ghostbusters\" Original Motion Picture Soundtrack)",
-    "Artists": "Ray Parker Jr.",
-    "Image Url": "https://m.media-amazon.com/images/I/61MwUjMwYHL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Man I Need",
-    "Artists": "Olivia Dean",
-    "Image Url": "https://m.media-amazon.com/images/I/819ujHYNgBL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Housewife",
-    "Artists": "Tate McRae",
-    "Image Url": "https://m.media-amazon.com/images/I/717-doRJDjL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Time Warp",
-    "Artists": "Little Nell, Patricia Quinn, Richard O'Brien & The Rocky Horror Picture Show",
-    "Image Url": "https://m.media-amazon.com/images/I/714wQZIeKRL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "I Put a Spell On You (Alternate Take)",
-    "Artists": "Screaming Jay Hawkins",
-    "Image Url": "https://m.media-amazon.com/images/I/81BHPYyILjL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Lies (feat. Lana Del Rey)",
-    "Artists": "Zach Bryan & Lana Del Rey",
-    "Image Url": "https://m.media-amazon.com/images/I/91x3TCdWL5L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "What I Want",
-    "Artists": "Morgan Wallen & Tate McRae",
-    "Image Url": "https://m.media-amazon.com/images/I/81EWwZcAwJL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Superstition",
-    "Artists": "Stevie Wonder",
-    "Image Url": "https://m.media-amazon.com/images/I/71U1nHRawgL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Last Thing You Need",
-    "Artists": "Morgan Wallen",
-    "Image Url": "https://m.media-amazon.com/images/I/71k5otUIXHL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Man I Need",
-    "Artists": "Olivia Dean",
-    "Image Url": "https://m.media-amazon.com/images/I/819ujHYNgBL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Housewife",
-    "Artists": "Tate McRae",
-    "Image Url": "https://m.media-amazon.com/images/I/717-doRJDjL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Time Warp",
-    "Artists": "Little Nell, Patricia Quinn, Richard O'Brien & The Rocky Horror Picture Show",
-    "Image Url": "https://m.media-amazon.com/images/I/714wQZIeKRL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "I Put a Spell On You (Alternate Take)",
-    "Artists": "Screaming Jay Hawkins",
-    "Image Url": "https://m.media-amazon.com/images/I/81BHPYyILjL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Lies (feat. Lana Del Rey)",
-    "Artists": "Zach Bryan & Lana Del Rey",
-    "Image Url": "https://m.media-amazon.com/images/I/91x3TCdWL5L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "What I Want",
-    "Artists": "Morgan Wallen & Tate McRae",
-    "Image Url": "https://m.media-amazon.com/images/I/81EWwZcAwJL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Superstition",
-    "Artists": "Stevie Wonder",
-    "Image Url": "https://m.media-amazon.com/images/I/71U1nHRawgL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Last Thing You Need",
-    "Artists": "Morgan Wallen",
-    "Image Url": "https://m.media-amazon.com/images/I/71k5otUIXHL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Monster Mash",
-    "Artists": "Bobby \"Boris\" Pickett & The Crypt-Kickers",
-    "Image Url": "https://m.media-amazon.com/images/I/71KMJArCe5L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Choosin' Texas",
-    "Artists": "Ella Langley",
-    "Image Url": "https://m.media-amazon.com/images/I/71uUjrCwfmL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Lose Control",
-    "Artists": "Teddy Swims",
-    "Image Url": "https://m.media-amazon.com/images/I/A1ujAFY3RgL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Stick Season",
-    "Artists": "Noah Kahan",
-    "Image Url": "https://m.media-amazon.com/images/I/81E5WXQc5ZL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Midnight Sun",
-    "Artists": "Zara Larsson",
-    "Image Url": "https://m.media-amazon.com/images/I/71NqZwCvUFL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "you look like you love me",
-    "Artists": "Ella Langley & Riley Green",
-    "Image Url": "https://m.media-amazon.com/images/I/71pPV4RDZ0L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Beautiful Things",
-    "Artists": "Benson Boone",
-    "Image Url": "https://m.media-amazon.com/images/I/719qHnqvltL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Baby [feat. Ludacris]",
-    "Artists": "Justin Bieber [feat. Ludacris]",
-    "Image Url": "https://m.media-amazon.com/images/I/610eI1mei5L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Fast Car",
-    "Artists": "Luke Combs",
-    "Image Url": "https://m.media-amazon.com/images/I/81kWe1ZXhKL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "I'm The Problem",
-    "Artists": "Morgan Wallen",
-    "Image Url": "https://m.media-amazon.com/images/I/814mRHP+G-L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Party In The U.S.A.",
-    "Artists": "Miley Cyrus",
-    "Image Url": "https://m.media-amazon.com/images/I/71LePszTDnL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Bad Moon Rising (Remastered 1985)",
@@ -230,124 +40,144 @@
     "Image Url": "https://m.media-amazon.com/images/I/71G3fcZllyL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Lush Life",
-    "Artists": "Zara Larsson",
-    "Image Url": "https://m.media-amazon.com/images/I/91pawnnULXL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Been By Now",
+    "Artists": "Morgan Wallen",
+    "Image Url": "https://m.media-amazon.com/images/I/71jBmX1pBdL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "I Remember Everything (feat. Kacey Musgraves)",
-    "Artists": "Zach Bryan [feat. Kacey Musgraves]",
-    "Image Url": "https://m.media-amazon.com/images/I/91o46KEzNoL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Earrings",
-    "Artists": "Malcolm Todd",
-    "Image Url": "https://m.media-amazon.com/images/I/814yeJ9VOgL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Animal",
-    "Artists": "KATSEYE",
-    "Image Url": "https://m.media-amazon.com/images/I/71upKCixB7L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Be By You",
-    "Artists": "Luke Combs",
-    "Image Url": "https://m.media-amazon.com/images/I/71CpTPQGBhL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Iris",
-    "Artists": "Goo Goo Dolls",
-    "Image Url": "https://m.media-amazon.com/images/I/81CuhTZNe6L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Just Give Me a Reason",
-    "Artists": "P!nk [feat. Nate Ruess]",
-    "Image Url": "https://m.media-amazon.com/images/I/71dr4iNyrHL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Shake It Off",
-    "Artists": "Taylor Swift",
-    "Image Url": "https://m.media-amazon.com/images/I/615zx3Nw6rL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "stupid song",
-    "Artists": "Olivia Rodrigo",
-    "Image Url": "https://m.media-amazon.com/images/I/61PIlNHqZ8L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Pink Pony Club",
-    "Artists": "Chappell Roan",
-    "Image Url": "https://m.media-amazon.com/images/I/71jY27atp6L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Lush Life",
-    "Artists": "Zara Larsson",
-    "Image Url": "https://m.media-amazon.com/images/I/91pawnnULXL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "I Remember Everything (feat. Kacey Musgraves)",
-    "Artists": "Zach Bryan [feat. Kacey Musgraves]",
-    "Image Url": "https://m.media-amazon.com/images/I/91o46KEzNoL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Earrings",
-    "Artists": "Malcolm Todd",
-    "Image Url": "https://m.media-amazon.com/images/I/814yeJ9VOgL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Animal",
-    "Artists": "KATSEYE",
-    "Image Url": "https://m.media-amazon.com/images/I/71upKCixB7L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Be By You",
-    "Artists": "Luke Combs",
-    "Image Url": "https://m.media-amazon.com/images/I/71CpTPQGBhL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Iris",
-    "Artists": "Goo Goo Dolls",
-    "Image Url": "https://m.media-amazon.com/images/I/81CuhTZNe6L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Just Give Me a Reason",
-    "Artists": "P!nk [feat. Nate Ruess]",
-    "Image Url": "https://m.media-amazon.com/images/I/71dr4iNyrHL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Shake It Off",
-    "Artists": "Taylor Swift",
-    "Image Url": "https://m.media-amazon.com/images/I/615zx3Nw6rL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "stupid song",
-    "Artists": "Olivia Rodrigo",
-    "Image Url": "https://m.media-amazon.com/images/I/61PIlNHqZ8L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Pink Pony Club",
-    "Artists": "Chappell Roan",
-    "Image Url": "https://m.media-amazon.com/images/I/71jY27atp6L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Better Me For You (Brown Eyes)",
-    "Artists": "Max McNown",
-    "Image Url": "https://m.media-amazon.com/images/I/617wSii+UQL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Orbiter",
-    "Artists": "Noah Kahan",
-    "Image Url": "https://m.media-amazon.com/images/I/71w+OmyisVL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Loving Life Again",
+    "Track": "Be Her",
     "Artists": "Ella Langley",
     "Image Url": "https://m.media-amazon.com/images/I/71FgtVr89QL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Halloween Theme - Main Title",
-    "Artists": "John Carpenter",
-    "Image Url": "https://m.media-amazon.com/images/I/71mv3xnHP-L._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Abracadabra",
+    "Artists": "The Steve Miller Band",
+    "Image Url": "https://m.media-amazon.com/images/I/718Yj6Qke3L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "I Can't Love You Anymore",
+    "Artists": "Ella Langley & Morgan Wallen",
+    "Image Url": "https://m.media-amazon.com/images/I/71qRyLjaFFL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "The Fate of Ophelia",
+    "Artists": "Taylor Swift",
+    "Image Url": "https://m.media-amazon.com/images/I/81sD+kAZAFL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Boston",
+    "Artists": "STELLA LEFTY",
+    "Image Url": "https://m.media-amazon.com/images/I/91Y1WeMh-vL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Patient Zero",
+    "Artists": "Taylor Swift",
+    "Image Url": "https://m.media-amazon.com/images/I/7102JYH881L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "All I Want for Christmas Is You",
+    "Artists": "Mariah Carey",
+    "Image Url": "https://m.media-amazon.com/images/I/61U9-OERLvL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Man I Need",
+    "Artists": "Olivia Dean",
+    "Image Url": "https://m.media-amazon.com/images/I/819ujHYNgBL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Werewolves of London",
+    "Artists": "Warren Zevon",
+    "Image Url": "https://m.media-amazon.com/images/I/71aooFEduXL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Housewife",
+    "Artists": "Tate McRae",
+    "Image Url": "https://m.media-amazon.com/images/I/717-doRJDjL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Animal",
+    "Artists": "KATSEYE",
+    "Image Url": "https://m.media-amazon.com/images/I/71upKCixB7L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Lies (feat. Lana Del Rey)",
+    "Artists": "Zach Bryan & Lana Del Rey",
+    "Image Url": "https://m.media-amazon.com/images/I/91x3TCdWL5L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "What I Want",
+    "Artists": "Morgan Wallen & Tate McRae",
+    "Image Url": "https://m.media-amazon.com/images/I/81EWwZcAwJL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Baby [feat. Ludacris]",
+    "Artists": "Justin Bieber [feat. Ludacris]",
+    "Image Url": "https://m.media-amazon.com/images/I/610eI1mei5L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Choosin' Texas",
+    "Artists": "Ella Langley",
+    "Image Url": "https://m.media-amazon.com/images/I/71uUjrCwfmL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Last Thing You Need",
+    "Artists": "Morgan Wallen",
+    "Image Url": "https://m.media-amazon.com/images/I/71k5otUIXHL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Lose Control",
+    "Artists": "Teddy Swims",
+    "Image Url": "https://m.media-amazon.com/images/I/A1ujAFY3RgL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Housewife",
+    "Artists": "Tate McRae",
+    "Image Url": "https://m.media-amazon.com/images/I/717-doRJDjL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Animal",
+    "Artists": "KATSEYE",
+    "Image Url": "https://m.media-amazon.com/images/I/71upKCixB7L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Lies (feat. Lana Del Rey)",
+    "Artists": "Zach Bryan & Lana Del Rey",
+    "Image Url": "https://m.media-amazon.com/images/I/91x3TCdWL5L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "What I Want",
+    "Artists": "Morgan Wallen & Tate McRae",
+    "Image Url": "https://m.media-amazon.com/images/I/81EWwZcAwJL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Baby [feat. Ludacris]",
+    "Artists": "Justin Bieber [feat. Ludacris]",
+    "Image Url": "https://m.media-amazon.com/images/I/610eI1mei5L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Choosin' Texas",
+    "Artists": "Ella Langley",
+    "Image Url": "https://m.media-amazon.com/images/I/71uUjrCwfmL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Last Thing You Need",
+    "Artists": "Morgan Wallen",
+    "Image Url": "https://m.media-amazon.com/images/I/71k5otUIXHL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Lose Control",
+    "Artists": "Teddy Swims",
+    "Image Url": "https://m.media-amazon.com/images/I/A1ujAFY3RgL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Heads Will Roll",
+    "Artists": "Yeah Yeah Yeahs",
+    "Image Url": "https://m.media-amazon.com/images/I/61Fq85fCBQL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Party In The U.S.A.",
+    "Artists": "Miley Cyrus",
+    "Image Url": "https://m.media-amazon.com/images/I/71LePszTDnL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Beat It",
@@ -355,9 +185,194 @@
     "Image Url": "https://m.media-amazon.com/images/I/71m-8XlvccL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Opalite",
+    "Track": "you look like you love me",
+    "Artists": "Ella Langley & Riley Green",
+    "Image Url": "https://m.media-amazon.com/images/I/71pPV4RDZ0L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Your Idol",
+    "Artists": "Saja Boys, Andrew Choi, Neckwav, Danny Chung, Kevin Woo, samUIL Lee & KPop Demon Hunters Cast",
+    "Image Url": "https://m.media-amazon.com/images/I/71RTY2OiuPL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Fast Car",
+    "Artists": "Luke Combs",
+    "Image Url": "https://m.media-amazon.com/images/I/81kWe1ZXhKL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Midnight Sun",
+    "Artists": "Zara Larsson",
+    "Image Url": "https://m.media-amazon.com/images/I/71NqZwCvUFL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Last Christmas",
+    "Artists": "Wham!",
+    "Image Url": "https://m.media-amazon.com/images/I/81kgJYosbGL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "I'm The Problem",
+    "Artists": "Morgan Wallen",
+    "Image Url": "https://m.media-amazon.com/images/I/814mRHP+G-L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Stick Season",
+    "Artists": "Noah Kahan",
+    "Image Url": "https://m.media-amazon.com/images/I/81E5WXQc5ZL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Bad Moon Rising",
+    "Artists": "Creedence Clearwater Revival",
+    "Image Url": "https://m.media-amazon.com/images/I/91T5J95QiRL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Beautiful Things",
+    "Artists": "Benson Boone",
+    "Image Url": "https://m.media-amazon.com/images/I/719qHnqvltL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Shake It Off",
     "Artists": "Taylor Swift",
-    "Image Url": "https://m.media-amazon.com/images/I/81sD+kAZAFL._SX472_SY472_BL0_QL100_.jpg"
+    "Image Url": "https://m.media-amazon.com/images/I/615zx3Nw6rL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Werewolves of London",
+    "Artists": "Warren Zevon",
+    "Image Url": "https://m.media-amazon.com/images/I/81FSNQGfAtL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Lush Life",
+    "Artists": "Zara Larsson",
+    "Image Url": "https://m.media-amazon.com/images/I/91pawnnULXL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Be By You",
+    "Artists": "Luke Combs",
+    "Image Url": "https://m.media-amazon.com/images/I/71CpTPQGBhL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "The Dead Dance",
+    "Artists": "Lady Gaga",
+    "Image Url": "https://m.media-amazon.com/images/I/61MQpR6XTtL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Iris",
+    "Artists": "Goo Goo Dolls",
+    "Image Url": "https://m.media-amazon.com/images/I/81CuhTZNe6L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "I Remember Everything (feat. Kacey Musgraves)",
+    "Artists": "Zach Bryan [feat. Kacey Musgraves]",
+    "Image Url": "https://m.media-amazon.com/images/I/91o46KEzNoL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Pink Pony Club",
+    "Artists": "Chappell Roan",
+    "Image Url": "https://m.media-amazon.com/images/I/71jY27atp6L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Earrings",
+    "Artists": "Malcolm Todd",
+    "Image Url": "https://m.media-amazon.com/images/I/814yeJ9VOgL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "I'm Still Standing",
+    "Artists": "Elton John",
+    "Image Url": "https://m.media-amazon.com/images/I/41saczuUD6L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Shake It Off",
+    "Artists": "Taylor Swift",
+    "Image Url": "https://m.media-amazon.com/images/I/615zx3Nw6rL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Werewolves of London",
+    "Artists": "Warren Zevon",
+    "Image Url": "https://m.media-amazon.com/images/I/81FSNQGfAtL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Lush Life",
+    "Artists": "Zara Larsson",
+    "Image Url": "https://m.media-amazon.com/images/I/91pawnnULXL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Be By You",
+    "Artists": "Luke Combs",
+    "Image Url": "https://m.media-amazon.com/images/I/71CpTPQGBhL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "The Dead Dance",
+    "Artists": "Lady Gaga",
+    "Image Url": "https://m.media-amazon.com/images/I/61MQpR6XTtL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Iris",
+    "Artists": "Goo Goo Dolls",
+    "Image Url": "https://m.media-amazon.com/images/I/81CuhTZNe6L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "I Remember Everything (feat. Kacey Musgraves)",
+    "Artists": "Zach Bryan [feat. Kacey Musgraves]",
+    "Image Url": "https://m.media-amazon.com/images/I/91o46KEzNoL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Pink Pony Club",
+    "Artists": "Chappell Roan",
+    "Image Url": "https://m.media-amazon.com/images/I/71jY27atp6L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Earrings",
+    "Artists": "Malcolm Todd",
+    "Image Url": "https://m.media-amazon.com/images/I/814yeJ9VOgL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "I'm Still Standing",
+    "Artists": "Elton John",
+    "Image Url": "https://m.media-amazon.com/images/I/41saczuUD6L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Santa Tell Me",
+    "Artists": "Ariana Grande",
+    "Image Url": "https://m.media-amazon.com/images/I/51YCwz4TQVL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Better Me For You (Brown Eyes)",
+    "Artists": "Max McNown",
+    "Image Url": "https://m.media-amazon.com/images/I/617wSii+UQL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "The Phantom of the Opera (The Andrew Lloyd Webber 2026 Mix)",
+    "Artists": "Andrew Lloyd Webber, Michael Crawford, The Phantom Of The Opera Original London Cast & Sarah Brightman",
+    "Image Url": "https://m.media-amazon.com/images/I/61uvIEX7cCL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Just Give Me a Reason",
+    "Artists": "P!nk [feat. Nate Ruess]",
+    "Image Url": "https://m.media-amazon.com/images/I/71dr4iNyrHL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Maneater",
+    "Artists": "Daryl Hall & John Oates",
+    "Image Url": "https://m.media-amazon.com/images/I/713uZjEEaqL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Loving Life Again",
+    "Artists": "Ella Langley",
+    "Image Url": "https://m.media-amazon.com/images/I/71FgtVr89QL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Tennessee Whiskey",
+    "Artists": "Chris Stapleton",
+    "Image Url": "https://m.media-amazon.com/images/I/71W6FqtMxyL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Golden",
+    "Artists": "HUNTR/X, EJAE, AUDREY NUNA, Rei Ami & KPop Demon Hunters Cast",
+    "Image Url": "https://m.media-amazon.com/images/I/71RTY2OiuPL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "stupid song",
+    "Artists": "Olivia Rodrigo",
+    "Image Url": "https://m.media-amazon.com/images/I/61PIlNHqZ8L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "weren't for the wind",
@@ -375,19 +390,59 @@
     "Image Url": "https://m.media-amazon.com/images/I/91bro93iajL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
+    "Track": "Main Theme: The Addams Family (from \"The Addams Family\" Original Motion Picture Soundtrack)",
+    "Artists": "Vic Mizzy and His Orchestra and Chorus",
+    "Image Url": "https://m.media-amazon.com/images/I/81o4IcArRvL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "I Got Better",
+    "Artists": "Morgan Wallen",
+    "Image Url": "https://m.media-amazon.com/images/I/81EWwZcAwJL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Orbiter",
+    "Artists": "Noah Kahan",
+    "Image Url": "https://m.media-amazon.com/images/I/71w+OmyisVL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Opalite",
+    "Artists": "Taylor Swift",
+    "Image Url": "https://m.media-amazon.com/images/I/81sD+kAZAFL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Last Night",
+    "Artists": "Morgan Wallen",
+    "Image Url": "https://m.media-amazon.com/images/I/81K0BR9HPLL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
     "Track": "So Easy (To Fall In Love)",
     "Artists": "Olivia Dean",
     "Image Url": "https://m.media-amazon.com/images/I/819ujHYNgBL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Tennessee Whiskey",
-    "Artists": "Chris Stapleton",
-    "Image Url": "https://m.media-amazon.com/images/I/71W6FqtMxyL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Babydoll",
+    "Artists": "Dominic Fike",
+    "Image Url": "https://m.media-amazon.com/images/I/71O5qaGo4zL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Season Of The Witch",
-    "Artists": "Lana Del Rey",
-    "Image Url": "https://m.media-amazon.com/images/I/81gixt-yTIL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Another One Bites The Dust",
+    "Artists": "Queen",
+    "Image Url": "https://m.media-amazon.com/images/I/71VKZBDwF+L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Broken Window Serenade",
+    "Artists": "Whiskey Myers",
+    "Image Url": "https://m.media-amazon.com/images/I/918OOdDPwfL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "I Just Might",
+    "Artists": "Bruno Mars",
+    "Image Url": "https://m.media-amazon.com/images/I/91bro93iajL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Main Theme: The Addams Family (from \"The Addams Family\" Original Motion Picture Soundtrack)",
+    "Artists": "Vic Mizzy and His Orchestra and Chorus",
+    "Image Url": "https://m.media-amazon.com/images/I/81o4IcArRvL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "I Got Better",
@@ -395,64 +450,14 @@
     "Image Url": "https://m.media-amazon.com/images/I/81EWwZcAwJL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Babydoll",
-    "Artists": "Dominic Fike",
-    "Image Url": "https://m.media-amazon.com/images/I/71O5qaGo4zL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Orbiter",
+    "Artists": "Noah Kahan",
+    "Image Url": "https://m.media-amazon.com/images/I/71w+OmyisVL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Highway to Hell",
-    "Artists": "AC/DC",
-    "Image Url": "https://m.media-amazon.com/images/I/71K1+8Xc7vL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Last Night",
-    "Artists": "Morgan Wallen",
-    "Image Url": "https://m.media-amazon.com/images/I/81K0BR9HPLL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Mystical Magical",
-    "Artists": "Benson Boone",
-    "Image Url": "https://m.media-amazon.com/images/I/81cl9KOwgAL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "I'm Still Standing",
-    "Artists": "Elton John",
-    "Image Url": "https://m.media-amazon.com/images/I/41saczuUD6L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "bad guy",
-    "Artists": "Billie Eilish",
-    "Image Url": "https://m.media-amazon.com/images/I/614XTITGS6L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Abracadabra",
-    "Artists": "The Steve Miller Band",
-    "Image Url": "https://m.media-amazon.com/images/I/718Yj6Qke3L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Tennessee Whiskey",
-    "Artists": "Chris Stapleton",
-    "Image Url": "https://m.media-amazon.com/images/I/71W6FqtMxyL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Season Of The Witch",
-    "Artists": "Lana Del Rey",
-    "Image Url": "https://m.media-amazon.com/images/I/81gixt-yTIL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "I Got Better",
-    "Artists": "Morgan Wallen",
-    "Image Url": "https://m.media-amazon.com/images/I/81EWwZcAwJL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Babydoll",
-    "Artists": "Dominic Fike",
-    "Image Url": "https://m.media-amazon.com/images/I/71O5qaGo4zL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Highway to Hell",
-    "Artists": "AC/DC",
-    "Image Url": "https://m.media-amazon.com/images/I/71K1+8Xc7vL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Opalite",
+    "Artists": "Taylor Swift",
+    "Image Url": "https://m.media-amazon.com/images/I/81sD+kAZAFL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Last Night",
@@ -460,24 +465,24 @@
     "Image Url": "https://m.media-amazon.com/images/I/81K0BR9HPLL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Mystical Magical",
-    "Artists": "Benson Boone",
-    "Image Url": "https://m.media-amazon.com/images/I/81cl9KOwgAL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "So Easy (To Fall In Love)",
+    "Artists": "Olivia Dean",
+    "Image Url": "https://m.media-amazon.com/images/I/819ujHYNgBL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "I'm Still Standing",
-    "Artists": "Elton John",
-    "Image Url": "https://m.media-amazon.com/images/I/41saczuUD6L._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Babydoll",
+    "Artists": "Dominic Fike",
+    "Image Url": "https://m.media-amazon.com/images/I/71O5qaGo4zL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "bad guy",
-    "Artists": "Billie Eilish",
-    "Image Url": "https://m.media-amazon.com/images/I/614XTITGS6L._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Another One Bites The Dust",
+    "Artists": "Queen",
+    "Image Url": "https://m.media-amazon.com/images/I/71VKZBDwF+L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Abracadabra",
-    "Artists": "The Steve Miller Band",
-    "Image Url": "https://m.media-amazon.com/images/I/718Yj6Qke3L._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Every Breath You Take",
+    "Artists": "The Police",
+    "Image Url": "https://m.media-amazon.com/images/I/71-r4fIqfeL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Something in the Orange",
@@ -485,18 +490,13 @@
     "Image Url": "https://m.media-amazon.com/images/I/91QOaQBpLnL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Golden",
-    "Artists": "HUNTR/X, EJAE, AUDREY NUNA, Rei Ami & KPop Demon Hunters Cast",
-    "Image Url": "https://m.media-amazon.com/images/I/71RTY2OiuPL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "California Gurls [feat. Snoop Dogg]",
+    "Artists": "Katy Perry [feat. Snoop Dogg]",
+    "Image Url": "https://m.media-amazon.com/images/I/61QWpBzttTL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Werewolves of London",
-    "Artists": "Warren Zevon",
-    "Image Url": "https://m.media-amazon.com/images/I/71aooFEduXL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "expectations",
-    "Artists": "Olivia Rodrigo & Chappell Roan",
-    "Image Url": "https://m.media-amazon.com/images/I/81-AZPmeJ6L._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Yeah!",
+    "Artists": "Usher [feat. Lil Jon & Ludacris]",
+    "Image Url": "https://m.media-amazon.com/images/I/71nHJk+hoHL._SX472_SY472_BL0_QL100_.jpg"
   }
 ]
