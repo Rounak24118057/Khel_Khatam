@@ -6,33 +6,28 @@
   },
   {
     "A": "Anirudh Ravichander",
-    "B": "1918",
+    "B": "1360",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=A+R"
   },
   {
     "A": "John Mayer",
-    "B": "548",
+    "B": "737",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=J+M"
   },
   {
     "A": "Harshavardhan Rameshwar",
-    "B": "457",
+    "B": "164",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=H+R"
   },
   {
-    "A": "Arijit Singh",
-    "B": "241",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+S"
-  },
-  {
-    "A": "Yo Yo Honey Singh",
-    "B": "45",
-    "C": "https://placehold.co/300x300/1d4436/69e091?text=Y+Y"
-  },
-  {
     "A": "Paraforce",
-    "B": "29",
+    "B": "149",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=P"
+  },
+  {
+    "A": "Arijit Singh",
+    "B": "75",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=A+S"
   },
   {
     "A": "Achint",
@@ -63,5 +58,10 @@
     "A": "Sidhu Moose Wala",
     "B": "0",
     "C": "https://placehold.co/300x300/1d4436/69e091?text=S+M"
+  },
+  {
+    "A": "Yo Yo Honey Singh",
+    "B": "0",
+    "C": "https://placehold.co/300x300/1d4436/69e091?text=Y+Y"
   }
 ]
